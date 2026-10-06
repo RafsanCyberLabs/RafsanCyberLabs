@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I am Rafsan The General The 🛠️ Script Builder . <br><br>- 🔭 I’m working currently Python<br>- 📚 I'm currently learning Dart & Flutter <br>- ⚡ In my free time I No more just Debug My Code <br>- 👨‍💻 Try to Solve Coding Problem<br>-🕵️‍♂️📈🚨 Have work Expiriance with SIEM Software like Splunk and Wazuh </p> 
+<p align="left">I am Rafsan 🛠️ Script Builder . <br><br>- 🔭 I’m working currently Python<br>- 📚 I'm currently learning Dart & Flutter <br>- ⚡ In my free time I No more just Debug My Code <br>- 👨‍💻 Try to Solve Coding Problem<br>-🕵️‍♂️📈🚨 Have work Expiriance with SIEM Software like Splunk and Wazuh </p> 
 
 ###
 
